@@ -8,8 +8,8 @@ A ideia é reproduzir uma calculadora que mostre o índice de massa corpórea (I
 A aplicação faz um calculo conforme a altura e peso do participante.
 
 ## Layout Web
-![Web 1](https://github.com/cellyyoliveira/calculadoraIMC/blob/master/imagens/2021-12-13_19-31.png)
-![Web 2](https://github.com/cellyyoliveira/calculadoraIMC/blob/master/imagens/2021-12-13_19-31_1.png)
+![Web 1](https://github.com/cellyyoliveira/calculadoraIMC/blob/master/imagens/ajuste1.png)
+![Web 2](https://github.com/cellyyoliveira/calculadoraIMC/blob/master/imagens/ajuste2.png)
 
 
 # Tecnologias utilizadas
