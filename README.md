@@ -8,12 +8,12 @@ A ideia é reproduzir uma calculadora que mostre o índice de massa corpórea (I
 A aplicação faz um calculo conforme a altura e peso do participante.
 
 ## Layout Web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png)
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png)
+![Web 1](https://github.com/cellyyoliveira/calculadoraIMC/blob/master/imagens/2021-12-13_19-31.png)
+![Web 2](https://github.com/cellyyoliveira/calculadoraIMC/blob/master/imagens/2021-12-13_19-31_1.png)
 
 
 # Tecnologias utilizadas
-## Front end
+## Visualização web
 - HTML / CSS / JS
 
 # Como executar o projeto
@@ -21,20 +21,18 @@ A aplicação faz um calculo conforme a altura e peso do participante.
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/cellyyoliveira/calculadoraIMC
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto calculadoraIMC
+cd calculadoraIMC
 
-# instalar dependências
-yarn install
+# Abrir o index.html
 
-# executar o projeto
-yarn start
+# Você irá visualizar a calculadora no Chrome.
+Insira um nome, altura e peso e irá ver o resultado.
 ```
 
 # Autor
